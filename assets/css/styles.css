@@ -242,10 +242,12 @@ section {
 
 #section-inverted-world .section-texts {
   width: 50%;
+  text-align: right;
 }
 
 #section-inverted-world .section-texts h2 {
-  max-width: 300px;
+  max-width: 425px;
+  display: inline-block;
 }
 
 /* Section 02 - Stranger Things Trailer */
